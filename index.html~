@@ -5,13 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <title>My first github pages</title>
-    <LINK href="github_pages.css" rel="stylesheet" type="text/css">
+    <link href="github_pages.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Duru+Sans' rel='stylesheet' type='text/css'>
   </head>
 
   <body>
 
     <div class="row">    
-      	
+      	<h1>Wellcome to my pages</h1>
     </div>  
   </body>
 </html>
