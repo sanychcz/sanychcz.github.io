@@ -1,11 +1,10 @@
 $('row').hover( 
   function() {
     $(this)
-      .css('color','blue')
-      .animate({'color': 'red'}, 400);
+      .animate({'background-color': 'red'}, 400);
   },
   function() {
     $(this)
-      .animate({'color': 'blue'}, 400);
+      .animate({'background-color': 'white'}, 400);
   }
 );

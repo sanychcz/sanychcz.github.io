@@ -6,7 +6,8 @@ body, html {
 .row {
 	width: 400px;
 	height: 400px;
-	margin: 100px auto;	
+	margin: 100px auto;
+  background-color: shite;	
 }
 
 .inner-row {
