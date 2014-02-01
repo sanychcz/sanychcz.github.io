@@ -1,4 +1,4 @@
-$('.row').hover( 
+jQuery('.row').hover( 
   function() {
     $(this)
       .animate({'background-color': '#428bca'}, 400);
