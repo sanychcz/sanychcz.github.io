@@ -13,8 +13,9 @@
 
     <div class="row">    
  			<h1>Wellcome to my pages</h1>
-			<div class="details">
-				
+			<div class="inner-row">
+				<p>alexander titov - Ruby on Rails developer</p>
+				<p>github: <a href="github.com/sanychcz">me</a></p>
 			</div>	
     </div>  
   </body>
