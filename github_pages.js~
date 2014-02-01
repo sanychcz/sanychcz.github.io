@@ -5,6 +5,6 @@ $('row').hover(
   },
   function() {
     $(this)
-      .animate({'background-color': 'blue'}, 400);
+      .animate({'background-color': 'white'}, 400);
   }
 );

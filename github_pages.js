@@ -1,4 +1,4 @@
-$('row').hover( 
+$('.row').hover( 
   function() {
     $(this)
       .animate({'background-color': 'red'}, 400);
