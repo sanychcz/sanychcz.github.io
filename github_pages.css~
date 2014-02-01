@@ -1,6 +1,15 @@
+
+h1 {
+	font-family: 'Duru Sans', sans-serif;
+}
+
 .row {
 	width: 600px;
 	margin: 100px auto;	
+}
+
+.inner-row {
+	padding: 20px;		
 }
 
 
