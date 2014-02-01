@@ -1,4 +1,3 @@
-$(document).ready(function(){
 $('.row').hover( 
   function() {
     $(this)
@@ -14,4 +13,4 @@ $('.row').hover(
       $('p').animate({'color': 'black'},400);
       $('a').animate({'color': 'black'},400);
   });
-});
+
