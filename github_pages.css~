@@ -7,7 +7,7 @@ body, html {
 	width: 400px;
 	height: 400px;
 	margin: 100px auto;
-  background-color: shite;	
+  background-color: white;	
 }
 
 .inner-row {
