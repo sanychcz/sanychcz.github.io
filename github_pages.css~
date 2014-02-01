@@ -1,10 +1,11 @@
 
-h1 {
+body, html {
 	font-family: 'Duru Sans', sans-serif;
 }
 
 .row {
-	width: 600px;
+	width: 400px;
+	height: 400px;
 	margin: 100px auto;	
 }
 
